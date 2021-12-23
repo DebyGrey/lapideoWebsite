@@ -1,0 +1,58 @@
+.color-white{
+    color:#ffffff !important;
+}
+.color-orange {
+color: #EE8456 !important;
+}
+.color-orange-bg {
+background-color: #EE8456 !important;
+}
+.color-orange-btn {
+background-color: #EE8456 !important;
+border-color: #EE8456 !important;
+color: #ffffff !important;
+}
+.custom-tp-margin-20{
+    margin-top: 20px !important;
+}
+.custom-link:hover, .custom-link:focus{
+background: #EE8456 !important;
+border-color: #EE8456 !important;
+color: #ffffff !important;
+}
+/* .custom-link:hover, .custom-link:focus{
+background-color: transparent !important;
+border-color: #dbdbdb !important;
+color: #232323 !important;
+} */
+.custom-link-2:hover, .custom-link-2:focus{
+color: #EE8456 !important;
+}
+.custom-box{
+background: #EE8456 !important;
+border-color: #EE8456 !important;
+color: #ffffff !important;
+} 
+.custom-box-2{
+background: #EE8456 !important;
+border-color: #EE8456 !important;
+color: #ffffff !important;
+}
+.custom-box-2:hover, .custom-box-2:focus{
+background: transparent !important;
+border-color: #EE8456 !important;
+color: #ffffff !important;
+}
+.custom-box-3{
+background: #EE8456 !important;
+border-color: #EE8456 !important;
+color: #ffffff !important;
+}
+.custom-box-3:hover, .custom-box-3:focus{
+background: transparent !important;
+border-color: #EE8456 !important;
+color: #000000 !important;
+}
+header .navbar .navbar-brand img, header .sidebar-nav-menu .navbar-brand img, header.side-menu .logo img {
+    max-height: 50px !important;
+}
